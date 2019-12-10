@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="auto_textbox_size">
+        <item>100sp</item>
+        <item>200sp</item>
+        <item>400sp</item>
+        <item>800sp</item>
+        <item>1600sp</item>
+    </array>
+</resources>
