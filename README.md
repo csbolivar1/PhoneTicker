@@ -7,3 +7,5 @@
 2. Touch 'Done'
 
 3. Message will scroll from right to left infinitely
+
+![Phone Ticker Demo](PhoneTickerDemo/PhoneTickerDemo.gif)
